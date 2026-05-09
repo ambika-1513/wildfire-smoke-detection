@@ -1,0 +1,10 @@
+stages:
+  train:
+    cmd: python src/train.py
+    deps:
+    - data/raw/Wildfire-Smoke-1
+    - src/train.py
+    - params.yaml
+    outs:
+    - models/model.pt:
+        cache: false
