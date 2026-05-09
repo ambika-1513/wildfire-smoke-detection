@@ -1,0 +1,14 @@
+artifact_uri: /content/wildfire-smoke-detection/runs/mlflow/906565123661874039/84a44f62425f40abb37ea9b43b6bc444/artifacts
+end_time: 1778340518570
+entry_point_name: ''
+experiment_id: '906565123661874039'
+lifecycle_stage: active
+run_id: 84a44f62425f40abb37ea9b43b6bc444
+run_name: yolov8s_exp_v0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778340197615
+status: 3
+tags: []
+user_id: root
